@@ -5,4 +5,5 @@ contract Example {
 	/*
 	블록 단위 주석
 	*/
+	//행 단위 주석
 }
